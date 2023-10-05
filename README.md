@@ -1,4 +1,5 @@
 # Dashboard_LoginRegister
+
 ![Captura2](https://github.com/Aldo1609/Dashboard_LoginRegister/assets/60208224/13e477d1-6dff-4400-8c8a-e9b59943146e)
 
 It is a dashbord that requires using a username and password to enter, it also includes registration,
